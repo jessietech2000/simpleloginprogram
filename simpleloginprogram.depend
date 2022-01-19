@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642630821 source:/home/jess/Projects/2-Programs/simpleloginprograjm/simpleloginprogram/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
